@@ -136,3 +136,7 @@ C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\System.Web.Http.xml
 C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\System.Web.Http.WebHost.xml
 C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\AutoMapper.dll
 C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\AutoMapper.xml
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.SeedUsers.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddDriversLicenseToApplicationUser.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddPhoneNumberToApplicationUser.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddPhoneNumberToApplicationUserAgain.resources
