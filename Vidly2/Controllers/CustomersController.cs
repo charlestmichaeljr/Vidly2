@@ -2,6 +2,7 @@
 using System.Data.Entity;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Caching;
 using System.Web;
 using System.Web.Mvc;
 using Vidly2.Models;
@@ -26,7 +27,14 @@ namespace Vidly2.Controllers
 
         // GET: Customers
         public ViewResult Index()
-        { 
+        {
+            if (MemoryCache.Default["Genres"] == null)
+            {
+                MemoryCache.Default["Genres"] = _context.Genres.ToList();
+            }
+
+            var genres = MemoryCache.Default["Genres"] as IEnumerable<Genre>;
+
             // No need to get the list of customers, the DataTable in the view
             // makes a call to the CustomersController Web API to get the data.
             return View();

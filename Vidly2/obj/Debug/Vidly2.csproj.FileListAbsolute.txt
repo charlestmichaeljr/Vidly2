@@ -140,3 +140,15 @@ C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.SeedUsers.resour
 C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddDriversLicenseToApplicationUser.resources
 C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddPhoneNumberToApplicationUser.resources
 C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddPhoneNumberToApplicationUserAgain.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\Glimpse.Ado.dll
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\Glimpse.AspNet.dll
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\Glimpse.Core.dll
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\Glimpse.EF6.dll
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\bin\Glimpse.Mvc5.dll
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddRentals.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddRentalModel.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddRentalModelAgain.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.RentalModel.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.ChangedMovieIdAndCustomerIdTypes.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.RefactorRental.resources
+C:\JobPrep2\ASPNetMVC\Vidly2\Vidly2\obj\Debug\Vidly2.Migrations.AddNumberAvailableToMovie.resources
