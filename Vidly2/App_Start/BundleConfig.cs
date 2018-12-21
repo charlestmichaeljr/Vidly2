@@ -14,7 +14,8 @@ namespace Vidly2
                 "~/Scripts/bootbox.js",
                 "~/Scripts/respond.js",
                 "~/Scripts/DataTables/jquery.dataTables.js",
-                "~/Scripts/DataTables/dataTables.bootstrap.js"));
+                "~/Scripts/DataTables/dataTables.bootstrap.js",
+                "~/Scripts/typeahead.bundle.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));
@@ -30,7 +31,8 @@ namespace Vidly2
                       "~/Content/bootstrap.css",
                       "~/Content/bootstrap-lumen.css",
                       "~/Content/DataTables/css/dataTables.bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/site.css",
+                        "~/Content/typeahead.css"));
         }
     }
 }
